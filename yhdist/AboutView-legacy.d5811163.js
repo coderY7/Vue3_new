@@ -1,0 +1,2 @@
+System.register("MyApp",["./main-legacy.771b93dd.js"],(function(e,t){"use strict";var n,i,a,s,u=document.createElement("style");return u.textContent="@media (min-width: 1024px){.about{min-height:100vh;display:flex;align-items:center}}\n",document.head.appendChild(u),{setters:[e=>{n=e._,i=e.o,a=e.c,s=e.a}],execute:function(){const t={},u={class:"about"},c=[s("h1",null,"This is an about page",-1)];e("default",n(t,[["render",function(e,t){return i(),a("div",u,c)}]]))}}}));
+//# sourceMappingURL=AboutView-legacy.d5811163.js.map
