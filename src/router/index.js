@@ -7,7 +7,10 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView
+      component: HomeView,
+      meta: {
+        keepAlive: true, // 需要缓存的路由组件
+      },
     },
     {
       path: '/about',
